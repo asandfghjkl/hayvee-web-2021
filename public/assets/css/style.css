@@ -1,6 +1,6 @@
 /* Jumbotron */
 .jumbotron {
-    background-image: url(/img/hero.jpg);
+    background-image: url(/public/img/hero.jpg);
     background-size: cover;
     height: 710px;
     margin-top: -280px;
@@ -30,7 +30,7 @@ a {
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
     .jumbotron {
-        background-image: url(/img/hero.jpg);
+        background-image: url(/public/img/hero.jpg);
         background-size: cover;
         height: 710px;
         margin-top: -110px;

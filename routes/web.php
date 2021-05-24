@@ -14,10 +14,14 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', 'LandingPageController@index')->name('landingpage');
+Route::get('/hayPedia', 'LandingPageController@hayPedia')->name('hayPedia');
+Route::get('/hayTalk', 'LandingPageController@hayTalk')->name('hayTalk');
+Route::post('login', 'AuthController@login');
 Route::get('login', 'AuthController@showFormLogin')->name('login');
 Route::post('login', 'AuthController@login');
 Route::get('register', 'AuthController@showFormRegister')->name('register');
 Route::post('register', 'AuthController@register');
+
      
 Route::group(['middleware' => 'auth'], function () {
     

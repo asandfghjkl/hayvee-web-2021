@@ -8,6 +8,16 @@ class LandingPageController extends Controller
 {
     public function index()
     {
-        return view('landingpage');
+        return view('index');
     }
+
+    public function hayPedia()
+    {
+        return view('hayPedia');
+    }
+
+    public function hayTalk()
+    {
+        return view('hayTalk');
+    }    
 }
