@@ -67,20 +67,20 @@
           <div class="col-md-3 mt-5">
             <h3>Follow Us!</h3>
             <div class="container mt-4">
-              <div class="col ">
-                <a href="https://www.facebook.com/hayveeid/">
+              <div class="col">
+                <a href="https://www.facebook.com/hayveeid/" target="_blank">
                   <img src="img/fb.png" alt="">
-                  <span class="text-light">hayveeid</span>
+                  <span class="text-light">@hayveeid</span>
                 </a>
               </div>
               <div class="col mt-4">
-                <a href="https://www.instagram.com/hayveeid/">
+                <a href="https://www.instagram.com/hayveeid/" target="_blank">
                   <img src="img/ig.png" alt="">
                   <span class="text-light">@hayveeid</span>
                 </a>
               </div>
               <div class="col mt-4">
-                <a href="https://twitter.com/hayVeeID?s=20">
+                <a href="https://twitter.com/hayVeeID?s=20" target="_blank">
                   <img src="img/tw.png" alt="">
                   <span class="text-light">@hayVeeID</span>
                 </a>
