@@ -26,7 +26,7 @@ a {
     text-decoration: none;
 }
 
-/* Desktop */
+/* Responsive Desktop */
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
     .jumbotron {
