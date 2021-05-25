@@ -97,11 +97,10 @@
             <h2>Navigasi</h2>
             <div class="container mt-4 text-center">
               <ul>
-                <li><a href="#" class="text-decoration-none text-reset">Home</a></li>
-                <li><a href="#" class="text-decoration-none text-reset">About</a></li>
-                <li><a href="#" class="text-decoration-none text-reset">hayPedia</a></li>
-                <li><a href="#" class="text-decoration-none text-reset">hayTalk</a></li>
-                <li><a href="#" class="text-decoration-none text-reset">Testimoni</a></li>
+              <li><a class="dropdown-item {{ Request::is('/') ? 'active' : '' }}" href="{{ url('/') }}">About</a></li>
+                <li><a class="dropdown-item {{ Request::is('hayPedia') ? 'active' : '' }}" href="{{ url('hayPedia') }}">hayPedia</a></li>
+                <li><a class="dropdown-item {{ Request::is('hayTalk') ? 'active' : '' }}" href="{{ url('hayTalk') }}">hayTalk</a></li>
+                <li><a class="dropdown-item {{ Request::is('/') ? 'active' : '' }}" href="{{ url('/') }}#testimonial">Testimoni</a></li>
               </ul></div>
           </div>
         </div>
