@@ -50,7 +50,8 @@
     <div class="jumbotron jumbotron-fluid">
       <h1 class="display-1">Be Humanly Healthy!</h1>
       <div class="container">
-          <button type="button" class="btn btn-danger btn-lg">hayTalk</button>
+          <!-- <button type="button" class="btn btn-danger btn-lg">hayTalk</button> -->
+          <a class="btn btn-danger btn-lg" href="{{ url('hayTalk') }}" role="button">hayTalk</a>
       </div>
     </div>
     <!-- Akhir Jumbotron -->
@@ -66,22 +67,22 @@
           <div class="col-md-3 mt-5">
             <h3>Follow Us!</h3>
             <div class="container mt-4">
-              <div class="col">
-                <a href="">
+              <div class="col ">
+                <a href="https://www.facebook.com/hayveeid/">
                   <img src="img/fb.png" alt="">
-                  <span class="text-light">@hayveeID</span>
+                  <span class="text-light">hayveeid</span>
                 </a>
               </div>
-              <div class="col mt-2">
-                <a href="">
+              <div class="col mt-4">
+                <a href="https://www.instagram.com/hayveeid/">
                   <img src="img/ig.png" alt="">
-                  <span class="text-light">HayVee</span>
+                  <span class="text-light">@hayveeid</span>
                 </a>
               </div>
-              <div class="col mt-2">
-                <a href="">
+              <div class="col mt-4">
+                <a href="https://twitter.com/hayVeeID?s=20">
                   <img src="img/tw.png" alt="">
-                  <span class="text-light">@hayveeid</span>
+                  <span class="text-light">@hayVeeID</span>
                 </a>
               </div>
             </div>
