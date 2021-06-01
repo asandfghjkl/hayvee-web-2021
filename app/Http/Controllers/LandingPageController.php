@@ -20,4 +20,9 @@ class LandingPageController extends Controller
     {
         return view('hayTalk');
     }    
+
+    public function blog()
+    {
+        return view('blog');
+    }    
 }
