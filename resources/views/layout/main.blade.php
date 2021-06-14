@@ -45,6 +45,7 @@
                 <li><a class="dropdown-item {{ Request::is('hayPedia') ? 'active' : '' }}" href="{{ url('hayPedia') }}">hayPedia</a></li>
                 <li><a class="dropdown-item {{ Request::is('hayTalk') ? 'active' : '' }}" href="{{ url('hayTalk') }}">hayTalk</a></li>
                 <li><a class="dropdown-item {{ Request::is('/') ? 'active' : '' }}" href="{{ url('/') }}#testimonial">Testimoni</a></li>
+                <li><a class="dropdown-item {{ Request::is('/') ? 'active' : '' }}" href="{{ url('/') }}#footer">Contact Us</a></li>
               </ul>
             </li>
           </ul>
@@ -69,28 +70,34 @@
 <!-- Akhir Container -->
 
     <!-- Footer -->
-    <footer class="text-white shadow-sm" style="background-color: #094D92;">
+    <footer id="footer" class="text-white shadow-sm" style="background-color: #094D92;">
       <div class="container">
         <div class="row justify-content-center text-center">
           <div class="col-md-3 mt-5">
             <h3>Follow Us!</h3>
-            <div class="container mt-4">
+            <div class="container mt-3">
               <div class="col">
                 <a href="https://www.facebook.com/hayveeid/" target="_blank">
                   <img src="img/fb.png" alt="">
                   <span class="text-light">@hayveeid</span>
                 </a>
               </div>
-              <div class="col mt-4">
+              <div class="col mt-3">
                 <a href="https://www.instagram.com/hayveeid/" target="_blank">
                   <img src="img/ig.png" alt="">
                   <span class="text-light">@hayveeid</span>
                 </a>
               </div>
-              <div class="col mt-4">
+              <div class="col mt-3">
                 <a href="https://twitter.com/hayVeeID?s=20" target="_blank">
                   <img src="img/tw.png" alt="">
                   <span class="text-light">@hayVeeID</span>
+                </a>
+              </div>
+              <div class="col mt-3">
+                <a href="https://wa.me/6282123740504" target="_blank">
+                  <img src="img/wa.png" alt="">
+                  <span class="text-light">WA hayVee</span>
                 </a>
               </div>
             </div>
@@ -110,6 +117,7 @@
                 <li><a class="dropdown-item {{ Request::is('hayPedia') ? 'active' : '' }}" href="{{ url('hayPedia') }}">hayPedia</a></li>
                 <li><a class="dropdown-item {{ Request::is('hayTalk') ? 'active' : '' }}" href="{{ url('hayTalk') }}">hayTalk</a></li>
                 <li><a class="dropdown-item {{ Request::is('/') ? 'active' : '' }}" href="{{ url('/') }}#testimonial">Testimoni</a></li>
+                <li><a class="dropdown-item {{ Request::is('/') ? 'active' : '' }}" href="{{ url('/') }}#footer">Contact Us</a></li>
               </ul></div>
           </div>
         </div>
