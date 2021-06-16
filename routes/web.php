@@ -16,16 +16,12 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', 'LandingPageController@index')->name('landingpage');
 Route::get('/hayPedia', 'LandingPageController@hayPedia')->name('hayPedia');
 Route::get('/hayTalk', 'LandingPageController@hayTalk')->name('hayTalk');
-Route::get('/blog', 'LandingPageController@blog')->name('blog');
-Route::post('login', 'AuthController@login');
-Route::get('login', 'AuthController@showFormLogin')->name('login');
-Route::post('login', 'AuthController@login');
-Route::get('register', 'AuthController@showFormRegister')->name('register');
-Route::post('register', 'AuthController@register');
+Route::get('/post', 'LandingPageController@post')->name('hayPediaPost');
+
 
      
-Route::group(['middleware' => 'auth'], function () {
+// Route::group(['middleware' => 'auth'], function () {
     
-    // Route::get('dashboard', 'AuthController@dashboard'); 
-    Route::get('logout', 'AuthController@logout')->name('logout');
-});
+//     // Route::get('dashboard', 'AuthController@dashboard'); 
+//     Route::get('logout', 'AuthController@logout')->name('logout');
+// });

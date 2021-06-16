@@ -15,7 +15,7 @@ class AuthServiceProvider extends ServiceProvider
     protected $policies = [
         // 'App\Model' => 'App\Policies\ModelPolicy',
     ];
-
+    
     /**
      * Register any authentication / authorization services.
      *
@@ -28,3 +28,10 @@ class AuthServiceProvider extends ServiceProvider
         //
     }
 }
+
+// Gate::define(\WebDevEtc\BlogEtc\Gates\GateTypes::MANAGE_BLOG_ADMIN, static function(?Model $user){
+//     // Implement your logic here, for example:
+//     return$user&&$user->email==='your-[email protected]';
+//     // Or something like `$user->is_admin === true`
+//     // return$user->is_admin === true;
+// });
