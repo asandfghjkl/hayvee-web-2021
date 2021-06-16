@@ -105,6 +105,29 @@
     </div>
     <div class="carousel-item">
       <img src="img/hayPedia/dis1.jpg" class="d-block w-100" alt="...">
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+    <a href="{{ url('hayTalk') }}#hayTalk">
+    <img src="img/hayPedia/dis1.jpg" class="d-block w-100" alt="...">
+    </a>
+      
+    </div>
+    <div class="carousel-item">
+    <a href="{{ url('hayTalk') }}#hayTalk">
+    <img src="img/hayPedia/dis1.jpg" class="d-block w-100" alt="...">
+    </a>
+    </div>
+    <div class="carousel-item">
+    <a href="{{ url('hayTalk') }}#hayTalk">
+    <img src="img/hayPedia/dis1.jpg" class="d-block w-100" alt="...">
+    </a>
+    </div>
+    <div class="carousel-item">
+    <a href="{{ url('hayTalk') }}#hayTalk">
+    <img src="img/hayPedia/dis1.jpg" class="d-block w-100" alt="...">
+    </a>
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
