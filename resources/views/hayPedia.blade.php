@@ -13,7 +13,7 @@
 
       <div class="row text-center mt-3">
         <div class="col">
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam maiores nisi iusto dicta nesciunt repellendus odio, voluptates mollitia maxime neque, saepe est? Consequatur nobis, sunt fugiat harum deserunt saepe cum excepturi numquam expedita quibusdam corrupti, veritatis incidunt vitae inventore tempora sapiente quos blanditiis eaque voluptates. Odit, ut minima dolorem vero quae nesciunt repellat hic ratione!</p>
+          <p>Temukan berbagai artikel menarik dari hayVee tentang kesehatan seksual dan kesehatan mental yang sudah dikurasi oleh profesional.</p>
         </div>
       </div>
     </div>

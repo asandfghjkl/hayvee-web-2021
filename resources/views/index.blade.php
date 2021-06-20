@@ -13,7 +13,8 @@
 
       <div class="row text-center mt-3">
         <div class="col">
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam maiores nisi iusto dicta nesciunt repellendus odio, voluptates mollitia maxime neque, saepe est? Consequatur nobis, sunt fugiat harum deserunt saepe cum excepturi numquam expedita quibusdam corrupti, veritatis incidunt vitae inventore tempora sapiente quos blanditiis eaque voluptates. Odit, ut minima dolorem vero quae nesciunt repellat hic ratione!</p>
+          <p>Sejak didirikan pada 2019, hayVee berharap tidak hanya menjadi platform edukasi seputar kesehatan seksual dan mental khususnya isu mengenai HIV/AIDS, namun juga menjadi ruang aman sekaligus teman untuk hayFriends berbagi kisah dan dapat mengaktualisasikan diri tanpa harus resah akan diskriminasi. </p>
+          <p>HayVee berkomitmen untuk menjadi wadah yang inklusif bagi hayFriends di manapun berada dengan berbagai latar belakang serta pilihan yang berbeda. Hingga hari ini hayVee selalu terbuka untuk tetap menjaga semangat kolaborasi baik dengan akademisi, praktisi, komunitas, sahabat penyintas, lembaga pemerintahan maupun organisasi kemasyarakatan. Demi satu misi yang sama, Indonesia tanpa stigma. </p>
         </div>
       </div>
     </div>
@@ -155,40 +156,40 @@
         <div class="col-md-4 m-3">
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+              <p class="card-text">"Terima kasih sudah menyediakan platform ini. Sangat senang akhirnya bisa ngeluarin keluh kesah dengan psikolog yang sangat atentif. Terima kasih banyak tim HayVee!”</p>
+              <h6 class="card-subtitle mb-2 text-muted">FA, 27</h6>
             </div>
           </div>
         </div>
         <div class="col-md-4 mb-3">
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+              <p class="card-text">“Sangat membantu untuk proses konsultasi apalagi mengenai hal hal yang mungkin bagi sebagian orang malu untuk ke dokter secara langsung.”</p>
+              <h6 class="card-subtitle mb-2 text-muted">LA, 34</h6>
             </div>
           </div>
         </div>
         <div class="col-md-4 mb-3">
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+              <p class="card-text">"Ruang yang aman ini nggak tiap hari bisa aku dapetin untuk sekadar berkeluh kesah/berbagi pengalaman perihal isu-isu sensitif di kehidupan sehari-hari. Haytalk memfasilitasi hal tsb”</p>
+              <h6 class="card-subtitle mb-2 text-muted">AG, 28</h6>
             </div>
           </div>
         </div>
         <div class="col-md-4 mb-3">
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+              <p class="card-text">"Jujur seneng banget. Ngerasa lega akhirnya punya platform buat cerita dan bersyukur banget ga ada yang judge selama cerita :)"</p>
+              <h6 class="card-subtitle mb-2 text-muted">As, 23</h6>
             </div>
           </div>
         </div>
         <div class="col-md-4 mb-3">
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+              <p class="card-text">"Merasa dapet pandangan2 baru dari cerita orang - orang, dan ngerasa gak sendiri untuk berjuang membenahi diri"</p>
+              <h6 class="card-subtitle mb-2 text-muted">NA, 22</h6>
             </div>
           </div>
         </div>
